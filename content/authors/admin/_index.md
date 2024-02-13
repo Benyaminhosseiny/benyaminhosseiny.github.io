@@ -96,19 +96,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/__Bennnn__
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=XVoU9p0AAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/benyaminhosseiny
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/benyamin-hosseiny/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I'm a Remote Sensing Engineer specializing in Radar and Microwave Remote Sensing, with a solid background in Geomatics. My research and projects revolve around the application of remote sensing in the fields of Earth observation and environmental monitoring. I have gained expertise in radar and synthetic aperture radar (SAR) processing and I have worked with diverse remote sensing data in both the optical and microwave domains. Additionally, I have explored and developed machine (deep) learning and computer vision algorithms for remote sensing data processing.
+
+During my PhD, my main focus was on developing signal processing methods for high-resolution monitoring of structural displacements using ground-based SAR (GBSAR) sensors. I have also developed a range of geospatial and earth observation algorithms and frameworks using data-driven machine (deep) learning methods for tasks including land-use land-cover classification, building detection, change detection, object detection, and anomaly detection.
